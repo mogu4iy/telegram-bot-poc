@@ -1,0 +1,14 @@
+dist
+node_modules
+
+.idea
+.vscode
+
+*.log
+*.sql
+*.sqlite
+*.json.swp
+*.json.save
+
+Dockerfile
+DockerfileLocal

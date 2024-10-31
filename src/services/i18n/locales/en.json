@@ -1,0 +1,20 @@
+{
+  "scenes": {
+    "start": {
+      "welcome": "Welcome!"
+    },
+    "language": {
+      "choose_lang": "Choose language / Выберите язык",
+      "en": "English",
+      "ru": "Русский"
+    }
+  },
+  "options": {
+    "what_next": ":raised_hand: Hey, what are you up to?",
+    "something_went_wrong": ":x: Something went wrong. Try one more time.."
+  },
+  "buttons": {
+    "back": ":arrow_left: Back",
+    "check_order": "Check"
+  }
+}

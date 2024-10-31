@@ -1,0 +1,20 @@
+{
+  "scenes": {
+    "start": {
+      "welcome": "Добро пожаловать!"
+    },
+    "language": {
+      "choose_lang": "Выберите язык / Choose language",
+      "en": "English",
+      "ru": "Русский"
+    }
+  },
+  "options": {
+    "what_next": ":raised_hand: Ну привет! Чем могу помочь?",
+    "something_went_wrong": ":x: Ошибочка вышла.. Попробуй еще раз"
+  },
+  "buttons": {
+    "back": ":arrow_left: Назад",
+    "check_order": "Проверить"
+  }
+}
